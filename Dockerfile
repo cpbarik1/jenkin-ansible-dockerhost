@@ -1,6 +1,6 @@
 
 FROM centos:latest
-MAINTAINER cpbarik@gmail.com
+MAINTAINER cpbarik.mca@gmail.com
 RUN yum install -y httpd \
   zip \
   unzip
